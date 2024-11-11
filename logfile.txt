@@ -1,0 +1,15 @@
+echo log
+reveal -al
+reveal -al ..
+ls
+hop ..
+reveal -al ..
+hop -
+gedit &
+gedit &
+hop ..
+hop ..
+hop ~
+hop ..
+hop !~
+hop
